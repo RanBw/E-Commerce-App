@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032323888291",
+    "project_id": "gaming-gears-app-3cefd",
+    "storage_bucket": "gaming-gears-app-3cefd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032323888291:android:eb0a50585a13be765dfb16",
+        "android_client_info": {
+          "package_name": "com.example.gaming_gears_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032323888291-2u163uhugm3dehv0askpaj7rtc1komgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0u0k8Dg6yQNaodYoO7N1Y6lTSTusmMug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032323888291-2u163uhugm3dehv0askpaj7rtc1komgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
