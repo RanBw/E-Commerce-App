@@ -82,7 +82,7 @@ class _ProfilePageState extends State<ProfilePage> {
       appBar: AppBar(
         backgroundColor: mainColor,
         title: const Text(
-          "Login Page",
+          "My Profile",
           style: TextStyle(fontSize: 22, color: Colors.white),
         ),
       ),
